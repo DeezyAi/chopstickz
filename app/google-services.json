@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386292159780",
+    "firebase_url": "https://chopstickz-login-5a690.firebaseio.com",
+    "project_id": "chopstickz-login-5a690",
+    "storage_bucket": "chopstickz-login-5a690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386292159780:android:f7334684988ce0c6278fb1",
+        "android_client_info": {
+          "package_name": "com.example.chopstickz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386292159780-636s48euojl629vsqsdif7dommpurou4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi1akPA2D1SsXqkIkhAFwzOkHFbeiViDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386292159780-636s48euojl629vsqsdif7dommpurou4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
