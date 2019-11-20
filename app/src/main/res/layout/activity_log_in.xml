@@ -71,7 +71,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="144dp"
         android:background="@drawable/custom_button"
-        android:text="LOG ING"
+        android:text="LOG IN"
         android:textAllCaps="false"
         android:textColor="#ffffff"
         android:textSize="20sp"
