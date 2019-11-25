@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "386292159780-lebrl55kpb71h5csi5971uevv3h9i7el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chopstickz",
+            "certificate_hash": "34d812fdf72c99e31c50866c13530fac703b104b"
+          }
+        },
+        {
           "client_id": "386292159780-636s48euojl629vsqsdif7dommpurou4.apps.googleusercontent.com",
           "client_type": 3
         }
