@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+//
     private void storeLogInActivity(boolean userloggedin) {
         SharedPreferences mSharedPrefences = getSharedPreferences("chopstickz", MODE_PRIVATE);
         SharedPreferences.Editor mEditor = mSharedPrefences.edit();

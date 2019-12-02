@@ -52,8 +52,6 @@ public class LogInActivity extends AppCompatActivity implements
         mFirebaseAuth = FirebaseAuth.getInstance();
 
         btnLogIn = findViewById(R.id.buttonLogin);
-        tvForgotThePassword = findViewById(R.id.ftp);
-        tvRegister = findViewById(R.id.reg);
         btnLogIn.setOnClickListener(this);
 
 
@@ -143,6 +141,7 @@ public class LogInActivity extends AppCompatActivity implements
 
     @Override
     public void onClick(View view) {
+
         logIn();
     }
 }
